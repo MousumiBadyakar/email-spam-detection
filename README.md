@@ -6,7 +6,7 @@ The project includes an interactive **Streamlit web application** where users ca
 
 ## 🚀 Live Demo
 
-🔗 **[Try the Email Spam Detector]()**
+🔗 **[Try the Email Spam Detector](https://email-spam-detection-lh3apeiuzjgtjzphzqtkdd.streamlit.app/)**
 
 ## ✨ Features
 
