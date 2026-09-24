@@ -56,3 +56,7 @@ Spam / Ham
 
 The goal of this project is to demonstrate how Natural Language Processing and deep learning can be used to automatically identify potentially unwanted email messages.
 
+
+👩‍💻 Author
+
+Mousumi Badyakar
