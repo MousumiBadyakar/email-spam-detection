@@ -44,6 +44,9 @@ def preprocess_text(text):
     # Lowercase
     text = text.lower()
 
+    # Remove hyperlinks
+    text = re.sub(r"http\S+", "", text)
+
     # Remove punctuation
     text = text.translate(
         str.maketrans("", "", string.punctuation)
@@ -58,9 +61,6 @@ def preprocess_text(text):
 
     # Join words
     text = " ".join(words)
-
-    # Remove hyperlinks
-    text = re.sub(r"http\S+", "", text)
 
     return text
 
