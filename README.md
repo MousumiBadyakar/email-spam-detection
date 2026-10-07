@@ -572,9 +572,3 @@ The prediction should not be considered a definitive determination of whether an
 ## 👩‍💻 Author
 
 **Mousumi Badyakar**
-
-GitHub: [MousumiBadyakar](https://github.com/MousumiBadyakar)
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
